@@ -1,7 +1,6 @@
 package com.github.cruzmatheus.urlshortener.core.service;
 
 import com.github.cruzmatheus.urlshortener.core.entity.StatisticsEntity;
-import com.github.cruzmatheus.urlshortener.core.entity.UrlEntity;
 import com.github.cruzmatheus.urlshortener.core.repository.StatisticsRepository;
 import com.github.cruzmatheus.urlshortener.core.repository.UrlRepository;
 import org.springframework.beans.factory.annotation.Autowired;
